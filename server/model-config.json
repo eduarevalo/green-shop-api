@@ -38,5 +38,9 @@
   "Product": {
     "dataSource": "api",
     "public": true
+  },
+  "EventData": {
+    "dataSource": "api",
+    "public": true
   }
 }
